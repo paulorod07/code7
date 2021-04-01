@@ -7,7 +7,7 @@
 - Se for rodar no IOS
   - cd ios > pod install
   
- No Android não requer mais nehum outro passo.
+ No Android não requer mais nenhum outro passo.
  
  
 rodar "npx react-native run-ios" para o IOS 
